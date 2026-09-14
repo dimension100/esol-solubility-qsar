@@ -41,3 +41,7 @@ The dataset, while a well-established benchmark, is relatively small (1,128 comp
 Tech stack
 
 Python, RDKit, pandas, scikit-learn, matplotlib
+
+How to run
+
+Open esol_qsar_full.py in Google Colab (or any Python environment with the packages above installed) and run sequentially — see inline comments marking each stage of the pipeline.
